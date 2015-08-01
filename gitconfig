@@ -3,6 +3,8 @@
 	email = roszcz@gmail.com
 [alias]
 	st = status -sb
+	lg = log --graph --abbrev-commit --decorate --date=relative --all --oneline 
+	df = diff HEAD
 [color]
 	diff = auto
 	status = auto
