@@ -1,0 +1,21 @@
+[submodule "vim/bundle/HiCursorWords"]
+	path = vim/bundle/HiCursorWords
+	url = https://github.com/ihacklog/HiCursorWords.git
+[submodule "vim/bundle/pythoncomplete"]
+	path = vim/bundle/pythoncomplete
+	url = https://github.com/vim-scripts/pythoncomplete.git
+[submodule "vim/bundle/python-syntax"]
+	path = vim/bundle/python-syntax
+	url = https://github.com/hdima/python-syntax.git
+[submodule "vim/bundle/supertab"]
+	path = vim/bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "vim/bundle/bufer-explorer"]
+	path = vim/bundle/bufer-explorer
+	url = https://github.com/widox/vim-buffer-explorer-plugin.git
+[submodule "vim/bundle/colorschemes"]
+	path = vim/bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "vim/bundle/starsearch"]
+	path = vim/bundle/starsearch
+	url = git@github.com:PanTomaszRoszczynialski/Vim-Star-Search.git
