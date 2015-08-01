@@ -1,0 +1,12 @@
+[user]
+	name = Mircea Eliade
+	email = roszcz@gmail.com
+[alias]
+	st = status -sb
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = true
+[core]
+	editor = vim
