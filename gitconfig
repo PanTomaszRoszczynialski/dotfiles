@@ -2,6 +2,7 @@
 	name = Mircea Eliade
 	email = roszcz@gmail.com
 [alias]
+	po = push origin
 	st = status -sb
 	lg = log --graph --abbrev-commit --decorate --date=relative --all --oneline 
 	df = diff HEAD

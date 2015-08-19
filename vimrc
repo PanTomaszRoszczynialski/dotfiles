@@ -46,3 +46,5 @@ map <Leader>w :w <CR> :echo "Is he live or dead? Has he thoughts within his head
 " Maybe quit if needed
 map <Leader>q :wq <CR> :echo "Wydupa i zapis" <CR>
 
+" NERDTree toggle Qt style 
+map <Leader>0 :NERDTreeToggle<CR>

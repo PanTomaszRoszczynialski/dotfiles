@@ -17,5 +17,5 @@ if [ $? -ge 1 ] ; then
     sleep 5
     /sbin/ifup --force $wlan
 else
-    echo "$now Network is UP. Just exit the program." >> $LOG_PATH
+    echo "$now Network is UP." >> $LOG_PATH
 fi
