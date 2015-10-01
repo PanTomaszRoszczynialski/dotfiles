@@ -103,7 +103,7 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 fi
 
 # for virtualenv functionalities
-source /usr/local/bin/virtualenvwrapper.sh
+#source /usr/local/bin/virtualenvwrapper.sh
 
 # Alias for vim colors to work pretty in tmux
 alias tmux="TERM=screen-256color-bce tmux"
