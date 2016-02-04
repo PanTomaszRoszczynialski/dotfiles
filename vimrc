@@ -5,10 +5,19 @@ set encoding=utf-8
 " More colors in colors
 set t_Co=256
 
-colorscheme badwolf
+" colorscheme badwolf
+colorscheme dark-ruby
 
 set number
 syntax on
+
+" Control LAMMPS syntax
+augroup filetypedetect
+    au BufRead,BufNewFile *.lamps setf lammps
+augroup end
+
+" Custom comment style for lammps
+call tcomment#DefineType('lammps', '# %s')
 
 filetype on
 filetype plugin on
@@ -45,6 +54,9 @@ map <Leader>e :BufExplorer<CR>
 map <Leader>w :w <CR> :echo "Is he live or dead? Has he thoughts within his head?"<CR>
 " Maybe quit if needed
 map <Leader>q :wq <CR> :echo "Wydupa i zapis" <CR>
+
+" Autocomment
+map <C-c> :TComment<CR>
 
 " NERDTree toggle Qt style 
 map <Leader>0 :NERDTreeToggle<CR>

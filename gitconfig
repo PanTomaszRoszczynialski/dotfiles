@@ -13,3 +13,4 @@
 	interactive = true
 [core]
 	editor = vim
+	excludesfile = ~/.gitignore
