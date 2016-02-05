@@ -6,7 +6,7 @@
 	url = https://github.com/vim-scripts/pythoncomplete.git
 [submodule "vim/bundle/python-syntax"]
 	path = vim/bundle/python-syntax
-	url = https://github.com/hdima/python-syntax.git
+	url = git@github.com:PanTomaszRoszczynialski/python-syntax.git
 [submodule "vim/bundle/supertab"]
 	path = vim/bundle/supertab
 	url = https://github.com/ervandew/supertab.git
@@ -19,9 +19,6 @@
 [submodule "vim/bundle/starsearch"]
 	path = vim/bundle/starsearch
 	url = git@github.com:PanTomaszRoszczynialski/Vim-Star-Search.git
-[submodule "vim/bundle/minibufexplorer"]
-	path = vim/bundle/minibufexplorer
-	url = https://github.com/fholgado/minibufexpl.vim.git
 [submodule "vim/bundle/tasklist"]
 	path = vim/bundle/tasklist
 	url = https://github.com/vim-scripts/TaskList.vim.git
