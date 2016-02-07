@@ -6,7 +6,7 @@ set encoding=utf-8
 set t_Co=256
 
 " colorscheme badwolf
-colorscheme dark-ruby
+colorscheme devbox-dark-256
 
 set number
 syntax on
