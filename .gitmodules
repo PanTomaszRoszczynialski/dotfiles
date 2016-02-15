@@ -19,9 +19,6 @@
 [submodule "vim/bundle/starsearch"]
 	path = vim/bundle/starsearch
 	url = git@github.com:PanTomaszRoszczynialski/Vim-Star-Search.git
-[submodule "vim/bundle/minibufexplorer"]
-	path = vim/bundle/minibufexplorer
-	url = https://github.com/fholgado/minibufexpl.vim.git
 [submodule "vim/bundle/tasklist"]
 	path = vim/bundle/tasklist
 	url = https://github.com/vim-scripts/TaskList.vim.git

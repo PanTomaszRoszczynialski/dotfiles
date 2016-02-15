@@ -5,7 +5,7 @@ set encoding=utf-8
 " More colors in colors
 set t_Co=256
 
-colorscheme badwolf
+colorscheme gotham256
 
 set number
 syntax on
