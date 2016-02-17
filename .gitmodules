@@ -15,7 +15,7 @@
 	url = https://github.com/widox/vim-buffer-explorer-plugin.git
 [submodule "vim/bundle/colorschemes"]
 	path = vim/bundle/colorschemes
-	url = https://github.com/flazz/vim-colorschemes.git
+	url = https://github.com/PanTomaszRoszczynialski/vim-colorschemes.git
 [submodule "vim/bundle/starsearch"]
 	path = vim/bundle/starsearch
 	url = git@github.com:PanTomaszRoszczynialski/Vim-Star-Search.git
