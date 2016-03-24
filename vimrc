@@ -6,7 +6,8 @@ set encoding=utf-8
 set t_Co=256
 
 " colorscheme badwolf
-colorscheme devbox-dark-256
+" colorscheme devbox-dark-256
+colorscheme gotham256
 
 set number
 syntax on
